@@ -1,0 +1,8 @@
+# Ignore override files as they are usually local-only
+*.tfvars
+*.tfvars.json
+
+# Ignore Terraform provider plugins
+.terraform/
+
+backend.tf
